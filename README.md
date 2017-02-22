@@ -1,6 +1,6 @@
 # eShop
 This is an eShop WebApplication .
-This project has been writen by ASP MVC and C# language.it consist of 5 layers that they are :
+This project has been writen with ASP MVC and C# language.it consist of 5 layers that they are :
 1-WebApplication 
 2-WebAPI 
 3-DomainClasses 
